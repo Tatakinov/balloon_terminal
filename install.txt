@@ -1,0 +1,4 @@
+charset,UTF-8
+type,balloon
+name,ターミナル
+directory,balloon_terminal
